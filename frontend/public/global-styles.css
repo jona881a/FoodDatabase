@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    height: 100vh;
+}
+
+.form-row {
+    display: flex;
+}
+
+.form-group {
+    margin: 20px;
+}
